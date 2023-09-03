@@ -2,7 +2,7 @@
 int main() {
     float pH;
 
-    printf("Enter the pH vale: ");
+    printf("Enter the pH value: ");
     scanf("%f", &pH);
 
     if (pH<7) 
@@ -13,7 +13,7 @@ else if(pH>7){
     printf("Alkaline",&pH);
 }
 else{
-    printf("neutral",&pH);
+    printf("Neutral",&pH);
 }
     return 0;
 }
