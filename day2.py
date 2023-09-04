@@ -7,6 +7,6 @@ pie=3.14
 volume=pie*(radius**2)*height/3  
 print("volume of the cone="+str(volume))
 
-4.(b) Dear Mr. Smith;
+4.(b) Dear Mr.Smith;
 
 5.b)11
