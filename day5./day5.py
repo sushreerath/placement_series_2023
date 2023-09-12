@@ -18,7 +18,9 @@ Number of cones = 52,500 cones
 
 3.b)financial success without emotional balance can cause havoc in a person's life.
 
-4.
+4. 
+this is called fibonacci series.
+#code
 def generate_fibonacci(n):
     fibonacci= []
     a, b = 1, 1
