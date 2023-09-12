@@ -35,3 +35,4 @@ for term in fib_series:
 5.1)O(n)
 
 6.c)fv
+7. YES
