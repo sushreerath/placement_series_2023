@@ -1,0 +1,30 @@
+1.A dress was initially marked at $150, and a pair of jeans were priced at $50. If Emily got a 40% discount off the dress and a 20% discount on the jeans, 
+what was the total percentage she saved on her purchases?
+
+ans:- initial price=150$,discount on dress=40/100*150=60$
+price of dress after discount=150-60=$90
+price of jeans=$50,discount price=20/100*50=10
+price of jeans after discount=50-10=$40
+total mrp=150+50=$200
+after discount=90+40=130
+percentage saved=(200-130/200)*100=35%
+so ans:-c)35%
+
+2.You manage a department that includes 10 employees who work with customers, and a supervisor. You notice that one of the 
+employees is regularly late arriving in the morning.
+What would you do?
+
+ans:-D) Tell the supervisor that she should pay more attention to her employees' arriving hours, as it looks bad.
+
+3. A chef receives 60 orders of pasta, it takes 30 minutes to cook pasta and season one-third of the orders with jalapeno. 
+find out how many pastas can the chef cook in two hours.
+ans:- 30 min=60 orders
+1 min=2 orders
+in two hours/120 min=120*2=240 orders
+but 1/3of orders with jalapeno,so pasta that chef can cook in 2 hours=240*1/3=80 orders.
+c)80
+
+6. How Do You Determine Whether the Following Two Strings Are Anagrams of Each Other?[Google the meaning of Anagram]
+
+An anagram is a word formed by rearranging the letters of another. To determine whether two strings are anagrams of each other, 
+we have  to sort the two strings and compare if they are equal or not.if they are equal then they are anagram of each other.
